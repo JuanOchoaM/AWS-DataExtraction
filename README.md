@@ -16,3 +16,5 @@ I utilized Google Cloud Platform (GCP) and Hadoop to analyze AWS Spot Instances 
 - Skills in visualizing data results using external tools like Excel.
 
 This project enhanced my ability to set up and utilize cloud resources for big data processing, leveraging both Google Cloud Platform and Hadoop for efficient data analysis.
+
+![EXCEL ](https://github.com/user-attachments/assets/650405f9-91d5-4272-8464-bc1b0311221d)
